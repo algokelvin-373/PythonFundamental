@@ -1,5 +1,5 @@
 bilNumber = int(input("Input number: "))
 if bilNumber % 2 == 0:
-    print(bilNumber, "is genap")
+    print(bilNumber, "is even")
 else:
-    print(bilNumber, "is ganjil")
+    print(bilNumber, "is odd")
